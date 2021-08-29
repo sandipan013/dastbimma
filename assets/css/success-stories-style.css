@@ -1,0 +1,16 @@
+.success-stories-container h3{
+    font-size: 40px !important;
+    color: #0D47A1 !important;
+    text-transform: uppercase !important;
+}
+
+.success-stories-container h4{
+    font-size: 28px;
+    margin-top: 50px;
+    color: #000000;
+    font-weight: bolder !important;
+}
+
+.success-stories-container .media-body{
+    font-size: 20px;
+}

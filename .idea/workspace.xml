@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="739f5469-72f4-42f3-afc4-c6f4b29d6c3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/main_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/programs/MMA_trainings.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/programs/Self-Defense.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/programs/certificate_program.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/programs/certification_program.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/programs/defense_program.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/programs/karate_trainings.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/social_media_icons/fb-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/social_media_icons/instagram-icon.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/social_media_icons/youtube-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/social_media_icons/youtube-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/subsidiary_logo/fighters.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/gallery_videos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/main_slider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/subsidiaries.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fighters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/our_programs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/gallery_photos_videos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/header_select.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/programs_model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verses-championship.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/cbi-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/cbi-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/success-stories-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/success-stories-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/assets_img_gallery_success.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/big_data.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/decision_making_banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/self_serve_banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/silos_banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/video/insight-video_A3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/video/insight-video_A3.ogv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/video/insight-video_A3.webm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/abhishek-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/hari-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/jay-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/keshov-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/keshov-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/lan-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/mintu-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/mintu-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/mintu-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/munmi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/roshan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/sadhana-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/sandipan-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/sangetha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/sarita.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/sharon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/srini-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/uttam-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/vebito_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/veera-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/component/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/success-stories.html" beforeDir="false" afterPath="$PROJECT_DIR$/component/success-stories.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact_us.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>slider_caption</find>
+      <find>.slides-navigation</find>
+      <find>.slides-navigation .icon-wrap</find>
+      <find>.slides-navigation a</find>
+      <find>F15A25</find>
+      <find>margin</find>
+      <find>Free c</find>
+      <find>.html</find>
+      <find>contact.html</find>
+      <find>php</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/css/responsive.css" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/assets/css/success-stories-style.css" />
+        <option value="$PROJECT_DIR$/assets/css/cbi-theme.css" />
+        <option value="$PROJECT_DIR$/component/contact.html" />
+        <option value="$PROJECT_DIR$/contact_us.html" />
+        <option value="$PROJECT_DIR$/component/header.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
+    <option name="width" value="1920" />
+    <option name="height" value="982" />
+  </component>
+  <component name="ProjectId" id="1wdggSwVZ9QnOJ0q4GAtbFGfQ9K" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dastbimma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dastbimma" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dastbimma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dastbimma" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dastbimma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dastbimma" type="462c0819:PsiDirectoryNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1628792723448" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/gallery" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/gallery" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/img/programs" />
+      <recent name="$PROJECT_DIR$/assets/img/social_media_icons" />
+      <recent name="$PROJECT_DIR$/assets/img/subsidiary_logo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/programs" />
+      <recent name="$PROJECT_DIR$/component" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="739f5469-72f4-42f3-afc4-c6f4b29d6c3b" name="Changes" comment="" />
+      <created>1628703905371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628703905371</updated>
+      <workItem from="1628703907356" duration="3409000" />
+      <workItem from="1628755021876" duration="3248000" />
+      <workItem from="1628794004559" duration="1298000" />
+      <workItem from="1628822659181" duration="16057000" />
+      <workItem from="1628996884391" duration="147000" />
+      <workItem from="1629013545972" duration="583000" />
+      <workItem from="1629100942223" duration="453000" />
+      <workItem from="1629173882215" duration="229000" />
+      <workItem from="1629258874119" duration="323000" />
+      <workItem from="1629345267035" duration="324000" />
+      <workItem from="1629425903220" duration="15592000" />
+      <workItem from="1629518409869" duration="9411000" />
+      <workItem from="1629601942134" duration="4305000" />
+      <workItem from="1629642271608" duration="5010000" />
+      <workItem from="1629691484092" duration="576000" />
+      <workItem from="1629779843690" duration="203000" />
+      <workItem from="1629863072503" duration="553000" />
+      <workItem from="1629948470059" duration="1093000" />
+      <workItem from="1630036209265" duration="129000" />
+      <workItem from="1630129080237" duration="11837000" />
+      <workItem from="1630207378880" duration="6950000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6657000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="982" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Flutter Performance" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" />
+      <window_info anchor="right" id="Flutter Outline" order="6" />
+      <window_info anchor="right" id="SciView" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/img/gallery/1_kattlebell_workout.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/superslides.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="238" column="18" selection-start-line="238" selection-end-line="238" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/success-stories-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/cbi-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="105" column="28" selection-start-line="105" selection-start-column="28" selection-end-line="105" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/success-stories.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-101">
+          <caret line="75" column="39" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crystalbi.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact_us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="54" selection-start-line="45" selection-start-column="54" selection-end-line="45" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1074" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/sendmail.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

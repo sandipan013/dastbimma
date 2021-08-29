@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Basic Page Needs
+    ================================================== -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>DASTBI MMA</title>
+
+    <!-- Mobile Specific Metas
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/png" href="../assets/img/favicon.ico"/>
+
+    <!-- CSS
+    ================================================== -->       
+    <!-- Bootstrap css file-->
+    <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../assets/css/bootstrap-grid.min.css" rel="stylesheet">
+    <!-- Font awesome css file-->
+    <link id="orginal" href="../assets/css/cbi-theme.css" rel="stylesheet">
+    <!-- Font awesome css file-->
+    <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
+    <!-- Main structure css file -->
+    <link href="../assets/css/style.css" rel="stylesheet">
+    <link href="../assets/css/success-stories-style.css" rel="stylesheet">
+   
+    <!-- Google fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Varela' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+  </head>
+  <body>
+     <!-- BEGIN PRELOADER -->
+    <!--<div id="preloader">-->
+      <!--<div id="status">&nbsp;</div>-->
+    <!--</div>-->
+    <!-- END PRELOADER -->
+
+    <!-- SCROLL TOP BUTTON -->
+    <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+    <!-- END SCROLL TOP BUTTON -->
+
+    <!--=========== BEGIN HEADER SECTION ================-->
+    <header id="header">
+      <!-- BEGIN MENU -->
+
+      <div class="menu_area">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+          <div class="container">
+          <div class="navbar-header">
+            <!-- FOR MOBILE VIEW COLLAPSED BUTTON -->
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+
+            <!-- LOGO -->
+
+            <!-- TEXT BASED LOGO -->
+              <a class="navbar-brand" href="#">
+                <img src="../assets/img/nav-logo.png" alt="logo" width="190px" class="mt-3">
+                Simplified Decisions
+              </a>
+
+
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right main_nav">
+              <li class="active"><a href="contact.html">Contact</a></li>
+              <li><a href="success-stories.html">Success Stories</a></li>
+            </ul>
+            <ul id="top-menu" class="nav navbar-nav navbar-right main_nav">
+              <li><a href="../index.php#">Home</a></li>
+              <li><a href="../index.php#service">Competencies</a></li>
+              <li><a href="../index.php#apporach">Approach</a></li>
+              <li><a href="../index.php#careers">Careers</a></li>
+              <li><a href="../index.php#team">Team</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+          </div>
+        </nav>
+      </div>
+
+      <!-- END MENU -->
+    </header>
+    <!--=========== End HEADER SECTION ================-->
+
+     <div class="default-container pb-0 bg-4 bg-cover">
+       <!--=========== DEMO SECTION ================-->
+       <section class="col-lg-6 col-md-12 col-sm-12 col-xs-12 white-bg default-content-padding">
+         <div class="col-lg-12 col-md-12 pt-5">
+           <div class="heading">
+             <h2 class="wow fadeInLeftBig">Try Free Class</h2>
+           </div>
+         </div>
+         <div class="col-lg-12 col-md-12 p-0">
+             <div>
+               <div class="Scedule-msg"></div>
+             </div>
+             <form name="form1" id="form1" method="post">
+               <div class="controls">
+                 <div class="row">
+                   <div class="col-lg-12 col-md-12 pull-left">
+                     <div class="form-group">
+                       <label for="form_name">First Name *</label>
+                       <input id="firstName" type="text" name="firstName" class="form-control" placeholder="Please enter your first name." required >
+                       <div class="first-name-help-block with-errors" style="color: red"></div>
+                     </div>
+                   </div>
+                   <div class="col-lg-12 col-md-12 pull-left">
+                     <div class="form-group">
+                       <label for="form_lastname">Last Name *</label>
+                       <input id="lastName" type="text" name="lastName" class="form-control" placeholder="Please enter your last name." required >
+                       <div class="last-name-help-block with-errors" style="color: red"></div>
+                     </div>
+                   </div>
+                 </div>
+
+                 <div class="row">
+                   <div class="col-lg-12 col-md-12 pull-left">
+                     <div class="form-group">
+                       <label for="form_lastname">E-mail Address *</label>
+                       <input id="emailAddr" type="email" name="emailAddr" class="form-control" placeholder="Please enter your e-mail." required  >
+                       <div class="email-help-block with-errors" style="color: red"></div>
+                     </div>
+                   </div>
+                   <div class="col-lg-12 col-md-12 pull-left">
+                     <div class="form-group">
+                       <label for="c">Phone Number *</label>
+                       <input id="phoneNo" type="tel" onkeypress="return (event.charCode >= 48 && event.charCode <= 57) || (event.charCode == 0) || (event.charCode == 8) || (event.charCode == 46)" name="phoneNo" class="form-control" placeholder="Please enter your phone number." required>
+                       <div class="phone-help-block with-errors" style="color: red"></div>
+                     </div>
+                   </div>
+                 </div>
+
+                 <div class="row">
+                   <div class="col-lg-12 col-md-12 pull-left">
+                     <div class="form-group">
+                       <label for="form_name">Company Name</label>
+                       <input id="compName" type="text" name="compName" class="form-control" placeholder="Please enter your company’s name."  >
+                       <div class="help-block with-errors"></div>
+                     </div>
+                   </div>
+                   <div class="col-lg-12 col-md-12 pull-left">
+                     <div class="form-group">
+                       <label class="form_name">Country</label>
+                       <div class="TextBox-Field">
+                         <select name="countryName" class="form-control" id="countryName">
+                           <option value="United States">United States</option>
+                           <option value="Canada">Canada</option>
+                           <option>Afghanistan</option>
+                           <option>Albania</option>
+                           <option>Algeria</option>
+                           <option>American Samoa</option>
+                           <option>Andorra</option>
+                           <option>Angola</option>
+                           <option>Anguilla</option>
+                           <option>Antarctica</option>
+                           <option>Antigua and Barbuda</option>
+                           <option>Argentina</option>
+                           <option>Armenia</option>
+                           <option>Aruba</option>
+                           <option>Australia</option>
+                           <option>Austria</option>
+                           <option>Azerbaijan</option>
+                           <option>Bahamas</option>
+                           <option>Bahrain</option>
+                           <option>Bangladesh</option>
+                           <option>Barbados</option>
+                           <option>Belarus</option>
+                           <option>Belgium</option>
+                           <option>Belize</option>
+                           <option>Benin</option>
+                           <option>Bermuda</option>
+                           <option>Bhutan</option>
+                           <option>Bolivia</option>
+                           <option>Bosnia and Herzegovina</option>
+                           <option>Botswana</option>
+                           <option>Bouvet Island</option>
+                           <option>Brazil</option>
+                           <option>British Indian Ocean Territory</option>
+                           <option>British Virgin Islands</option>
+                           <option>Brunei</option>
+                           <option>Bulgaria</option>
+                           <option>Burkina Faso</option>
+                           <option>Burundi</option>
+                           <option>Cambodia</option>
+                           <option>Cameroon</option>
+                           <option>Cape Verde</option>
+                           <option>Cayman Islands</option>
+                           <option>Central African Republic</option>
+                           <option>Chad</option>
+                           <option>Chile</option>
+                           <option>China</option>
+                           <option>Christmas Island</option>
+                           <option>Cocos (Keeling) Islands</option>
+                           <option>Colombia</option>
+                           <option>Comoros</option>
+                           <option>Congo</option>
+                           <option>Cook Islands</option>
+                           <option>Costa Rica</option>
+                           <option>Croatia</option>
+                           <option>Cuba</option>
+                           <option>Cyprus</option>
+                           <option>Czech Republic</option>
+                           <option>Côte d’Ivoire</option>
+                           <option>Democratic Republic of the Congo</option>
+                           <option>Denmark</option>
+                           <option>Djibouti</option>
+                           <option>Dominica</option>
+                           <option>Dominican Republic</option>
+                           <option>Ecuador</option>
+                           <option>Egypt</option>
+                           <option>El Salvador</option>
+                           <option>Equatorial Guinea</option>
+                           <option>Eritrea</option>
+                           <option>Estonia</option>
+                           <option>Ethiopia</option>
+                           <option>Falkland Islands</option>
+                           <option>Faroe Islands</option>
+                           <option>Fiji</option>
+                           <option>Finland</option>
+                           <option>France</option>
+                           <option>French Guiana</option>
+                           <option>French Polynesia</option>
+                           <option>French Southern Territories</option>
+                           <option>Gabon</option>
+                           <option>Gambia</option>
+                           <option>Georgia</option>
+                           <option>Germany</option>
+                           <option>Ghana</option>
+                           <option>Gibraltar</option>
+                           <option>Greece</option>
+                           <option>Greenland</option>
+                           <option>Grenada</option>
+                           <option>Guadeloupe</option>
+                           <option>Guam</option>
+                           <option>Guatemala</option>
+                           <option>Guinea</option>
+                           <option>Guinea-Bissau</option>
+                           <option>Guyana</option>
+                           <option>Haiti</option>
+                           <option>Heard Island and McDonald Islands</option>
+                           <option>Honduras</option>
+                           <option>Hong Kong S.A.R., China</option>
+                           <option>Hungary</option>
+                           <option>Iceland</option>
+                           <option>India</option>
+                           <option>Indonesia</option>
+                           <option>Iran</option>
+                           <option>Iraq</option>
+                           <option>Ireland</option>
+                           <option>Israel</option>
+                           <option>Italy</option>
+                           <option>Jamaica</option>
+                           <option>Japan</option>
+                           <option>Jordan</option>
+                           <option>Kazakhstan</option>
+                           <option>Kenya</option>
+                           <option>Kiribati</option>
+                           <option>Kuwait</option>
+                           <option>Kyrgyzstan</option>
+                           <option>Laos</option>
+                           <option>Latvia</option>
+                           <option>Lebanon</option>
+                           <option>Lesotho</option>
+                           <option>Liberia</option>
+                           <option>Libya</option>
+                           <option>Liechtenstein</option>
+                           <option>Lithuania</option>
+                           <option>Luxembourg</option>
+                           <option> </option>
+                           <option>Macao S.A.R., China</option>
+                           <option>Macedonia</option>
+                           <option>Madagascar</option>
+                           <option>Malawi</option>
+                           <option>Malaysia</option>
+                           <option>Maldives</option>
+                           <option>Mali</option>
+                           <option>Malta</option>
+                           <option>Marshall Islands</option>
+                           <option>Martinique</option>
+                           <option>Mauritania</option>
+                           <option>Mauritius</option>
+                           <option>Mayotte</option>
+                           <option>Mexico</option>
+                           <option>Micronesia</option>
+                           <option>Moldova</option>
+                           <option>Monaco</option>
+                           <option>Mongolia</option>
+                           <option>Montserrat</option>
+                           <option>Morocco</option>
+                           <option>Mozambique</option>
+                           <option>Myanmar</option>
+                           <option>Namibia</option>
+                           <option>Nauru</option>
+                           <option>Nepal</option>
+                           <option>Netherlands</option>
+                           <option>Netherlands Antilles</option>
+                           <option>New Caledonia</option>
+                           <option>New Zealand</option>
+                           <option>Nicaragua</option>
+                           <option>Niger</option>
+                           <option>Nigeria</option>
+                           <option>Niue</option>
+                           <option>Norfolk Island</option>
+                           <option>North Korea</option>
+                           <option>Northern Mariana Islands</option>
+                           <option>Norway</option>
+                           <option>Oman</option>
+                           <option>Pakistan</option>
+                           <option>Palau</option>
+                           <option>Palestinian Territory</option>
+                           <option>Panama</option>
+                           <option>Papua New Guinea</option>
+                           <option>Paraguay</option>
+                           <option>Peru</option>
+                           <option>Philippines</option>
+                           <option>Pitcairn</option>
+                           <option>Poland</option>
+                           <option>Portugal</option>
+                           <option>Puerto Rico</option>
+                           <option>Qatar</option>
+                           <option>Romania</option>
+                           <option>Russia</option>
+                           <option>Rwanda</option>
+                           <option>Réunion</option>
+                           <option>Saint Helena</option>
+                           <option>Saint Kitts and Nevis</option>
+                           <option>Saint Lucia</option>
+                           <option>Saint Pierre and Miquelon</option>
+                           <option>Saint Vincent and the Grenadines</option>
+                           <option>Samoa</option>
+                           <option>San Marino</option>
+                           <option>Sao Tome and Principe</option>
+                           <option>Saudi Arabia</option>
+                           <option>Senegal</option>
+                           <option>Serbia</option>
+                           <option>Seychelles</option>
+                           <option>Sierra Leone</option>
+                           <option>Singapore</option>
+                           <option>Slovakia</option>
+                           <option>Slovenia</option>
+                           <option>Solomon Islands</option>
+                           <option>Somalia</option>
+                           <option>South Africa</option>
+                           <option>South Korea</option>
+                           <option>Spain</option>
+                           <option>Sri Lanka</option>
+                           <option>Sudan</option>
+                           <option>Suriname</option>
+                           <option>Svalbard and Jan Mayen</option>
+                           <option>Swaziland</option>
+                           <option>Sweden</option>
+                           <option>Switzerland</option>
+                           <option>Syria</option>
+                           <option>Taiwan</option>
+                           <option>Tajikistan</option>
+                           <option>Tanzania</option>
+                           <option>Thailand</option>
+                           <option>Timor-Leste</option>
+                           <option>Togo</option>
+                           <option>Tokelau</option>
+                           <option>Tonga</option>
+                           <option>Trinidad and Tobago</option>
+                           <option>Tunisia</option>
+                           <option>Turkey</option>
+                           <option>Turkmenistan</option>
+                           <option>Turks and Caicos Islands</option>
+                           <option>Tuvalu</option>
+                           <option>U.S. Virgin Islands</option>
+                           <option>Uganda</option>
+                           <option>Ukraine</option>
+                           <option>United Arab Emirates</option>
+                           <option>United Kingdom</option>
+                           <option>United States Minor Outlying Islands</option>
+                           <option>Uruguay</option>
+                           <option>Uzbekistan</option>
+                           <option>Vanuatu</option>
+                           <option>Vatican</option>
+                           <option>Venezuela</option>
+                           <option>Vietnam</option>
+                           <option>Wallis and Futuna</option>
+                           <option>Western Sahara</option>
+                           <option>Yemen</option>
+                           <option>Yugoslavia</option>
+                           <option>Zambia</option>
+                         </select>
+                       </div>
+                     </div>
+                   </div>
+                 </div>
+
+                 <div class="row" style="padding-right: 15px; padding-left: 15px;">
+                   <label class="form_name">Message</label>
+                   <div class="form-group col-lg-12 p-0">
+                     <textarea name="comments" class="form-control" placeholder="Please write down your high level business or technology problem statement." row="10" id="comments" style="height: 100px;"></textarea>
+                   </div>
+                 </div>
+
+                 <div class="form-group">
+                   <label class="form_name">&nbsp;</label>
+                   <div class="form-group">
+                     <input type="submit" value="Submit" id="mailSubmit" class="btn btn-lg btn-success pull-left">
+                     <div class="showLoading pull-left"><img src="assets/img/loader.gif"> Please wait...</div>
+                   </div>
+                 </div>
+               </div>
+             </form>
+           </div>
+       </section>
+
+       <!--=========== CONTACT SECTION ================-->
+       <section class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+           <div class="col-lg-12 col-md-12 col-sm-12 text-center default-content-padding">
+               <!-- BEGIN CALL US FEATURE -->
+               <div class="col-12 single_contact_feaured mt-5">
+                   <i class="fa fa-phone pb-4"></i>
+                   <p>+1 425-598-3006</p>
+               </div>
+               <!-- BEGIN CALL US FEATURE -->
+               <div class="col-12 single_contact_feaured mt-5">
+                   <i class="fa fa-envelope-o pb-4"></i>
+                   <p><a href="mailto:sales@crystalbi.com">sales@crystalbi.com</a></p>
+               </div>
+               <!-- BEGIN CALL US FEATURE -->
+               <div class="col-12 single_contact_feaured mt-5">
+                   <i class="fa fa-map-marker pb-4"></i>
+                   <h5 style="color:#FFF">United States:</h5>
+                  <p>127 Bellevue Way SE, Suite 106, Bellevue, WA 98004</p>
+                 <h5 style="color:#FFF">India:</h5>
+                 <p>7/1, Viswanathar Koil Street, St. Thomas Mount, Chennai, Tamil Nadu 600016</p>
+               </div>
+           </div>
+       </section>
+     </div>
+     <!--=========== BEGIN FOOTER ================-->
+     <footer id="footer">
+         <div class="col-12 text-center footer-dark p-4">
+           Copyright &copy; 2014-2020 Crystal BI LLC. All Rights Reserved.
+         </div>
+      </footer>
+
+      <!--=========== END FOOTER ================-->
+
+  </body>
+</html>
