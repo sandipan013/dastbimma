@@ -98,7 +98,7 @@ include "./component/header.php";
                                     <label class="founder-des">Web and Mobile developer. He has 10 years of experiance in developing website and mobile app. He also worked on the APIs for different mobile apps. Web and Mobile developer. He has 10 years of experiance in developing website and mobile app. He also worked on the APIs for different mobile apps.</label>
                                 </div>
                                 <div class="text-left">
-                                    <a href="https://www.linkedin.com/in/sandipan-biswas-741a6317/" target="_blank"><img
+                                    <a href="#" target="_blank"><img
                                                 class="text-center linkedin-filter" src="assets/img/linkedin_logo.png"
                                                 width="40px"></a>
                                 </div>
@@ -153,7 +153,7 @@ include "./component/header.php";
                                 <h4 class="team-title text-center">Sandipan</h4>
                                 <label class="team-des">Web and Mobile developer</label>
                                 <div class="col-12 text-center">
-                                    <a href="https://www.linkedin.com/in/sandipan-biswas-741a6317/" target="_blank"><img
+                                    <a href="#" target="_blank"><img
                                             class="text-center linkedin-filter" src="assets/img/linkedin_logo.png"
                                             width="40px"></a>
                                 </div>
@@ -174,10 +174,10 @@ include "./component/header.php";
                                 <h4 class="team-title text-center">Uttam</h4>
                                 <label class="team-des">Web and Visualization</label>
                                 <div class="col-12 text-center">
-                                    <a href="https://www.linkedin.com/in/uttam-dutta-7b7a7b30/" target="_blank"><img
+                                    <a href="#" target="_blank"><img
                                                 class="text-center linkedin-filter" src="assets/img/linkedin_logo.png"
                                                 width="40px"></a>
-                                    <a href="https://www.youtube.com/channel/UCxnK-RKuyBgzOE_DwFud9iQ"
+                                    <a href="#"
                                        target="_blank"><img class="text-center linkedin-filter" src="assets/img/youtube_logo.png"
                                                             width="50px"></a>
                                 </div>
@@ -198,10 +198,10 @@ include "./component/header.php";
                                 <h4 class="team-title text-center">Vebito</h4>
                                 <label class="team-des">Data and Mobility</label>
                                 <div class="col-12 text-center">
-                                    <a href="https://www.linkedin.com/in/vebito-tetseo/" target="_blank"><img
+                                    <a href="#" target="_blank"><img
                                                 class="text-center linkedin-filter" src="assets/img/linkedin_logo.png"
                                                 width="40px"></a>
-                                    <a href="https://krillandbaleen.tumblr.com/" target="_blank"><img
+                                    <a href="#" target="_blank"><img
                                                 class="text-center linkedin-filter" src="assets/img/photo-blog.png"
                                                 width="40px"></a>
                                 </div>
@@ -222,10 +222,10 @@ include "./component/header.php";
                                 <h4 class="team-title text-center">Jay</h4>
                                 <label class="team-des">Mobility and Visualization</label>
                                 <div class="col-12 text-center">
-                                    <a href="https://www.linkedin.com/in/jayunewal/" target="_blank"><img
+                                    <a href="#" target="_blank"><img
                                                 class="text-center linkedin-filter" src="assets/img/linkedin_logo.png"
                                                 width="40px"></a>
-                                    <a href="https://www.youtube.com/user/unewaljay" target="_blank"><img
+                                    <a href="#" target="_blank"><img
                                                 class="text-center linkedin-filter" src="assets/img/youtube_logo.png"
                                                 width="50px"></a>
                                 </div>
@@ -246,7 +246,7 @@ include "./component/header.php";
                                 <h4 class="team-title text-center">Veera</h4>
                                 <label class="team-des">Data and Cloud Architecture</label>
                                 <div class="col-12 text-center">
-                                    <a href="https://www.linkedin.com/in/veeravendhan/" target="_blank"><img
+                                    <a href="#" target="_blank"><img
                                                 class="text-cente linkedin-filter" src="assets/img/linkedin_logo.png"
                                                 width="40px"></a>
                                 </div>
@@ -262,12 +262,12 @@ include "./component/header.php";
                         <div class="side front">
                             <!-- front content -->
                             <img class="team-img-top" data-holder-rendered="true"
-                                 src="assets/img/team/sadhana-1.jpg" style="height: auto; width: 100%; display: block;">
+                                 src="assets/img/team/vebito_1.jpg" style="height: auto; width: 100%; display: block;">
                             <div class="team-block">
                                 <h4 class="team-title text-center">Sadhana</h4>
                                 <label class="team-des">User Experience</label>
                                 <div class="col-12 text-center">
-                                    <a href="https://www.linkedin.com/in/sadhana-gogoi-230502b8/" target="_blank"><img
+                                    <a href="#" target="_blank"><img
                                                 class="text-center linkedin-filter" src="assets/img/linkedin_logo.png"
                                                 width="40px"></a>
                                 </div>
