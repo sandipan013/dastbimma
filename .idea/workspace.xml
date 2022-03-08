@@ -2,71 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="739f5469-72f4-42f3-afc4-c6f4b29d6c3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/main_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/programs/MMA_trainings.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/programs/Self-Defense.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/programs/certificate_program.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/programs/certification_program.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/programs/defense_program.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/programs/karate_trainings.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/social_media_icons/fb-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/social_media_icons/instagram-icon.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/social_media_icons/youtube-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/social_media_icons/youtube-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/subsidiary_logo/fighters.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/gallery_videos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/main_slider.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/subsidiaries.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fighters.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gallery.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/our_programs.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/gallery_photos_videos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/header_select.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/programs_model.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/verses-championship.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/cbi-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/cbi-theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/success-stories-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/success-stories-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gallery/assets_img_gallery_success.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gallery/big_data.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gallery/decision_making_banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gallery/self_serve_banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gallery/silos_banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gallery/video/insight-video_A3.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gallery/video/insight-video_A3.ogv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gallery/video/insight-video_A3.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/abhishek-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/hari-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/jay-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/keshov-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/keshov-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/lan-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/mintu-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/mintu-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/mintu-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/munmi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/roshan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/sadhana-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/sandipan-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/sangetha.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/sarita.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/sharon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/srini-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/uttam-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/vebito_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/veera-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/component/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/success-stories.html" beforeDir="false" afterPath="$PROJECT_DIR$/component/success-stories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact_us.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,13 +58,13 @@
     <option name="height" value="982" />
   </component>
   <component name="ProjectId" id="1wdggSwVZ9QnOJ0q4GAtbFGfQ9K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,6 +86,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -177,6 +117,18 @@
       <recent name="$PROJECT_DIR$/assets/img/programs" />
       <recent name="$PROJECT_DIR$/component" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -210,16 +162,23 @@
       <workItem from="1630036209265" duration="129000" />
       <workItem from="1630129080237" duration="11837000" />
       <workItem from="1630207378880" duration="6950000" />
+      <workItem from="1630217385200" duration="891000" />
+      <workItem from="1630292133101" duration="538000" />
+      <workItem from="1630383203729" duration="500000" />
+      <workItem from="1630469450882" duration="284000" />
+      <workItem from="1630556544945" duration="139000" />
+      <workItem from="1630727578750" duration="501000" />
+      <workItem from="1633612966193" duration="527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6657000" />
+    <option name="totallyTimeSpent" value="7184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="982" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -254,19 +213,39 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/img/gallery/1_kattlebell_workout.jpeg">
@@ -317,13 +296,7 @@
     <entry file="file://$PROJECT_DIR$/crystalbi.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact_us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/contact_us.html" />
     <entry file="file://$PROJECT_DIR$/component/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">

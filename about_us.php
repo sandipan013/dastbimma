@@ -30,6 +30,9 @@
     <link href="css/animate.css" rel="assets/stylesheet">
     <!-- Elastic grid css file -->
     <link href="assets/css/elastic_grid.css" rel="stylesheet">
+    <!-- Circle counter cdn css file -->
+    <link href='https://cdn.rawgit.com/pguso/jquery-plugin-circliful/master/css/jquery.circliful.css'
+          rel='stylesheet prefetch'>
     <!-- Default Theme css file -->
     <link href="assets/css/cbi-theme.css" id="orginal" rel="stylesheet">
     <!-- Main structure css file -->
@@ -62,84 +65,39 @@
 <!-- END SCROLL TOP BUTTON -->
 
 <!-- HEADER SECTION -->
-
-<?php
-include "./php/header_select.php";
-$home = true;
-include "./component/header.php";
+<?php 
+    include "./php/header_select.php";
+    $aboutUs = true;
+    include "./component/header.php";
 ?>
 <!-- END HEADER SECTION -->
 
-<div class="content-wrapper">
-<!-- BEGIN SLIDER AREA-->
-<?php include "./component/main_slider.html"?>
-<!-- END SLIDER AREA -->
-
-<!--=========== BEGIN OUR PROGRAMS SECTION ================-->
-<section id="competencies">
-    <div class="col-lg-12 col-md-12 p-0 ">
-        <div class="heading">
-            <h2 class="wow fadeInLeftBig">Our Programs</h2>
-        </div>
-    </div>
-    <?php
-        include "./php/programs_model.php";
-
-    ?>
-    <!--=========== BEGIN PROGRAMS SECTION ================-->
-    <div class="container">
-        <div class="tabs">
-
-            <div class="row">
-            <?php
-            for ($x = 0; $x < count($myProgramsArray); $x++) {
-            ?>
-                <div class="programContainer col-md-3 col-sm-6 col-xs-12">
-                    <div class="product-image-wrapper">
-                        <a href=<?=$myProgramsArray[$x][2] ?>>
-                            <div class="product-content program">
-                                <!-- front content -->
-                                <img class="p-img-top" data-holder-rendered="true"
-                                     src=<?=$myProgramsArray[$x][1] ?> >
-                                <div class="info-products">
-                                    <h3 class="team-title text-center"><?=$myProgramsArray[$x][0] ?></h3>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-            <?php
-            }
-            ?>
-
-            </div>
+<br/>
+<br/>
+<!--=========== BEGIN ABOUT US SECTION ================-->
+<section id="about-us">
+    <div class="col-12 my-3">
+        <img alt="img" src="./assets/img/gallery/2_brazilian_jiu_jitsu.jpeg" style="width:  100%;"/>
+        <div class="container mt-3 about-us-text">
+        <p>
+        DASTBI MMA, founded in 2017, is an institute of Martial Arts & fitness that provides quality training to build a stronger generation and encourage people of all ages and abilities to take up MMA and other combat to develop individually and master the art of self-defense. 
+    Currently we offer trainings for MMA (Mixed Martial Arts), Muay Thai which is recognized by the Olympics, Brazilian Jiu Jitsu (Gi & non-Gi), Kyokushin Karate (world’s strongest Karate), CQC (Self-protection system), Animal Flow to improve strength, power, flexibility, mobility and coordination. Callisthenic, Kettlebell, Free Hand Exercises, Strength and conditioning Training and many more. 
+    </p>
+    <p class="text-center">
+    We also organize seminars, boot camps, free self-defense training sessions for women under the 'Divas to Defense Program.
+    </p>
+    
         </div>
     </div>
 </section>
-<!--=========== END PROGRAMS SECTION ================-->
-
-<!--=========== BEGIN WHY DASTBI SECTION ================-->
-<?php include  "./component/whydastbi.html" ?>
-
-<!--=========== BEGIN APPROACH SECTION ================-->
-<?php include  "./component/subsidiaries.html" ?>
-<!--=========== END APPROACH SECTION ================-->
-<?php include  "./component/gallery_videos.html" ?>
-
-<!--=========== BEGIN TEAM SECTION ================-->
-<!-- team section goes here... Deleted on 28th Sept, 2020 -->
-<!--=========== END TEAM SECTION ================-->
+<!--=========== END ABOUT US SECTION ================-->
 
 <!--=========== BEGIN FOOTER ================-->
 <?php
 include "./component/footer.html"
 ?>
-</div>
-<!--=========== END FOOTER ================-->
 
-<!-- Javascript Files
-================================================== -->
+<!--=========== END FOOTER ================-->
 
 </body>
 </html>

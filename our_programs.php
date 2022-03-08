@@ -234,51 +234,5 @@ include "./component/footer.html"
 
 <!--=========== END FOOTER ================-->
 
-<!-- Javascript Files
-================================================== -->
-
-<!-- initialize jQuery Library -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-
-<!-- For smooth animatin  -->
-<script src="js/wow.min.js"></script>
-<!-- Bootstrap js -->
-<script src="js/bootstrap.min.js"></script>
-<!-- superslides slider -->
-<script src="js/jquery.superslides.min.js" type="text/javascript"></script>
-<!-- slick slider -->
-<script src="js/slick.min.js"></script>
-<!-- for circle counter -->
-<script src='https://cdn.rawgit.com/pguso/jquery-plugin-circliful/master/js/jquery.circliful.min.js'></script>
-
-
-<!-- Custom js-->
-<script src="js/custom.js"></script>
-<script>
-    $(document).ready(function () {
-
-        var s_round = '.s_round';
-        var date = new Date()
-        $("#footer_year").text(date.getFullYear())
-        $(s_round).hover(function () {
-            $('.b_round').toggleClass('b_round_hover');
-            return false;
-        });
-
-        $(s_round).click(function () {
-            $('.flip_box').toggleClass('flipped');
-            $(this).addClass('s_round_click');
-            $('.s_arrow').toggleClass('s_arrow_rotate');
-            $('.b_round').toggleClass('b_round_back_hover');
-            return false;
-        });
-
-        $(s_round).on('transitionend', function () {
-            $(this).removeClass('s_round_click');
-            $(this).addClass('s_round_back');
-            return false;
-        });
-    });
-</script>
 </body>
 </html>

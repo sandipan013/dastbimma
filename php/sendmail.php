@@ -68,7 +68,7 @@ $eMsg = '<table border="0">
                 </tr></table>'; 
  
  $from = "support@pet24care.com";
- $subject = $firstname . " reached us (CrystalBI web).";
+ $subject = $firstname . " reached us (Dastbi web).";
  $body = str_replace("\n.", "\n..", $eMsg);
  
 // $host = "smtp.office365.com";

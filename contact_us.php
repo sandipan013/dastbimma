@@ -65,7 +65,11 @@
 <!-- END SCROLL TOP BUTTON -->
 
 <!-- HEADER SECTION -->
-<?php include "./component/header.php" ?>
+<?php 
+    include "./php/header_select.php";
+    $contactUs = true;
+    include "./component/header.php";
+?>
 <!-- END HEADER SECTION -->
 
 <br/>
@@ -83,7 +87,7 @@
             <!-- BEGIN CALL US FEATURE -->
             <div class="col-12 single_contact_feaured mt-5 pt-5">
                 <i class="fa fa-envelope-o pb-4"></i>
-                <p><a href="mailto:mintu@crystalbi.com">support@dastbi.com</a></p>
+                <p><a href="mailto:support@dastbi.com">support@dastbi.com</a></p>
             </div>
             <!-- BEGIN CALL US FEATURE -->
             <div class="col-12 single_contact_feaured mt-5 pt-5">
@@ -97,7 +101,7 @@
     <section class="col-lg-6 col-md-12 col-sm-12 col-xs-12 p-0 white-bg default-content-padding">
         <div class="col-lg-12 col-md-12 pt-5">
             <div class="heading">
-                <h2 class="wow fadeInLeftBig">Fill Details for Free Class</h2>
+                <h2 class="wow fadeInLeftBig">Contact Us</h2>
             </div>
         </div>
         <div class="col-lg-12 col-md-12 p-0">
@@ -172,51 +176,5 @@ include "./component/footer.html"
 
 <!--=========== END FOOTER ================-->
 
-<!-- Javascript Files
-================================================== -->
-
-<!-- initialize jQuery Library -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-
-<!-- For smooth animatin  -->
-<script src="js/wow.min.js"></script>
-<!-- Bootstrap js -->
-<script src="js/bootstrap.min.js"></script>
-<!-- superslides slider -->
-<script src="js/jquery.superslides.min.js" type="text/javascript"></script>
-<!-- slick slider -->
-<script src="js/slick.min.js"></script>
-<!-- for circle counter -->
-<script src='https://cdn.rawgit.com/pguso/jquery-plugin-circliful/master/js/jquery.circliful.min.js'></script>
-
-
-<!-- Custom js-->
-<script src="js/custom.js"></script>
-<script>
-    $(document).ready(function () {
-
-        var s_round = '.s_round';
-        var date = new Date()
-        $("#footer_year").text(date.getFullYear())
-        $(s_round).hover(function () {
-            $('.b_round').toggleClass('b_round_hover');
-            return false;
-        });
-
-        $(s_round).click(function () {
-            $('.flip_box').toggleClass('flipped');
-            $(this).addClass('s_round_click');
-            $('.s_arrow').toggleClass('s_arrow_rotate');
-            $('.b_round').toggleClass('b_round_back_hover');
-            return false;
-        });
-
-        $(s_round).on('transitionend', function () {
-            $(this).removeClass('s_round_click');
-            $(this).addClass('s_round_back');
-            return false;
-        });
-    });
-</script>
 </body>
 </html>

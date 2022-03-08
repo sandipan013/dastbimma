@@ -4,5 +4,6 @@ $ourProgram = false;
 $trainers = false;
 $gallery = false;
 $aboutUs = false;
+$contactUS = false;
 
 ?>
